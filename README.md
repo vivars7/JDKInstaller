@@ -1,6 +1,6 @@
 # Introduction
 
-This script is just for convenient configuration of oracle jdk for ubuntu linux.  
+This script is just for convenient installation of oracle jdk for ubuntu linux.  
 
 ## Usage is as follows.  
 ```sh
